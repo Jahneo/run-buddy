@@ -36,11 +36,6 @@ header {
     color: #fce138;
     margin: 0;
   }
-  
-  header a {
-      text-decoration: none;
-    color: #fce138;
-  }
   header nav {
     float: right;
     margin: 7px 0;
@@ -53,3 +48,8 @@ header {
     font-weight: lighter;
     font-size: 22px;
   }
+  header a {
+      text-decoration: none;
+    color: #fce138;
+  }
+  
